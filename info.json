@@ -31,11 +31,11 @@
     "systems": {
       "linux-aarch64": {
         "url": "https://github.com/zen-browser/desktop/releases/download/twilight/zen.linux-aarch64.tar.bz2",
-        "hash": "sha256-TUJ6a8zq4h7Q5Ws0vntx6qXm66iOG3a8uUieldpr6Oo="
+        "hash": "sha256-Uc0vFMYxliY7D0LPF37eD2hSYY+u39OtqmT1Hsrd4ls="
       },
       "linux-x86_64": {
         "url": "https://github.com/zen-browser/desktop/releases/download/twilight/zen.linux-x86_64.tar.bz2",
-        "hash": "sha256-K2vzD9Az17dAJB5md7W2WrF1DX2uoFBe1jJ6A+NzcHA="
+        "hash": "sha256-32HnHJQbCn1RdXrcCmF6dHy+90BZ9FXDZefz9sI4iB4="
       }
     }
   }
